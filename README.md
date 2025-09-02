@@ -1,7 +1,7 @@
 # Data Science Masters Program -  Capstone Project - Module 2
 * Project Overview
 
-This project is part of Module 2 of the Capstone series, focusing on Exploratory Data Analysis (EDA).
+This project is part of Module 2 of the Data Science Masters Program at Alma Better, focusing on Exploratory Data Analysis (EDA).
 The objective is to analyze the dataset, uncover hidden patterns, and translate them into business insights that support decision-making.
 
 * Objectives
